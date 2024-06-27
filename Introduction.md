@@ -5,5 +5,6 @@
 🔗 <a href='https://www.youtube.com/watch?v=r8ylJ16B0KQ'>https://www.youtube.com/watch?v=r8ylJ16B0KQ</a>
 
 
-### Basic concept
-1. 
+### What Grid-computing will do? 
+1. Grid-computing merges unused computational resources from other local computers to tackle computational intensive tasks
+2.  
