@@ -5,6 +5,7 @@
 🔗 <a href='https://www.youtube.com/watch?v=r8ylJ16B0KQ'>https://www.youtube.com/watch?v=r8ylJ16B0KQ</a>
 
 
-### What Grid-computing will do? 
-1. Grid-computing merges unused computational resources from other local computers to tackle computational intensive tasks
-2.  
+### What Grid-computing do? 
+Merging unused computational resources to tackle computational intensive tasks that one computer can't handle alone.  
+
+For example, 
